@@ -1,0 +1,3 @@
+name|age|manager
+raju |26|Rajesh
+chaitaya|28|narsi
